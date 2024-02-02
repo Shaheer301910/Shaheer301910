@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shaheer1018
-- 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning
+- 👋 Hi, I’m @Shaheer1018.
+- 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning.
 - 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Data Science and Machine Learning related projects.
 - 📫 How to reach me www.linkedin.com/in/shaheer1018

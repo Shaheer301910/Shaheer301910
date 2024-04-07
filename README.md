@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/jupyter-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="100" height="100"/>&nbsp;
 
 <!---
 Shaheer301910/Shaheer301910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

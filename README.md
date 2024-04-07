@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Data Science and Machine Learning related projects.
 - 📫 How to reach me: shaheer301810@gmail.com
 
-  ### :hammer_and_wrench: Connect with me:
+### :hammer_and_wrench: Connect with me:
   <div id="badges">
   <a href="https://www.linkedin.com/in/shaheer1018/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

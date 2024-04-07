@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 - 👋 Hi, I’m @Shaheer1018.
 - 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning.
 - 🌱 I’m currently learning Machine Learning.
@@ -12,10 +17,7 @@
                         </a>
                       </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
       
 
 

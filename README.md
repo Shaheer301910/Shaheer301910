@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="100" 
            height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="100" height="100"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="100" height="100"/>&nbsp;
 
 <!---
 Shaheer301910/Shaheer301910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

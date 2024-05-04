@@ -3,8 +3,8 @@
 </div>
 
 - 👋 Hi, I’m @Shaheer1018.
-- 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
+- 👀 I’m interested in Artificial Intelligence, Data Engineering, Data Science and Machine Learning.
+- 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Data Science and Machine Learning related projects.
 - 📫 How to reach me: shaheer301810@gmail.com
 
